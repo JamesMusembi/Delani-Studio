@@ -6,6 +6,7 @@
     Html
     css (Bootstrap)
     Javascript
+    Jquery
 ## Requirements
    JSFiddle or Javascript console
 ## Setup Instructions and Installation
