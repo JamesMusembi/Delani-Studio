@@ -9,5 +9,6 @@
 ## Requirements
    JSFiddle or Javascript console
 ## Setup Instructions and Installation
-   Clone this repository to a location in your file system.'git clone
+   Clone this repository to a location in your file system.'git clonehttps://github.com/JamesMusembi/Delani-Studio.git'
+   
    
