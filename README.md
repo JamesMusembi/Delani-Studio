@@ -7,3 +7,4 @@
     css (Bootstrap)
     Javascript
 ## Requirements
+   JSFiddle or Javascript console
